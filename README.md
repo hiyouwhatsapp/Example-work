@@ -15,7 +15,7 @@ Typed gameplay contracts, config modules, evaluation, networking, and runtime lo
 
 ## VIPER Compute
 
-Parallel Actor execution and runtime management  from a telemetry and analysis framework, the complete product should help flag abnormal player behavior and isolate typical from malicious behavior. Long way to completion, but quod est, est
+Parallel Actor execution and runtime management  from a telemetry and analysis framework, the complete product should help flag abnormal player behavior and isolate typical from malicious actions. Long way to completion, but quod est, est
 
 - `Viper/Compute/Governor.luau`
 - `Viper/Compute/Contract.luau`
