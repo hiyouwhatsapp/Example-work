@@ -1,6 +1,6 @@
 # Roblox Work Examples
 
-A few selected samples from larger Roblox/Luau projects of mine, focused mostly on architectural design and design, and scaffolding with scaling and expansion in mind
+A few selected samples from larger Roblox/Luau projects of mine, focused mostly on architectural design and scaffolding with scaling and expansion in mind
 
 ## Tower Runtime
 
